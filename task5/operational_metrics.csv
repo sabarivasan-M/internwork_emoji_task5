@@ -1,0 +1,7 @@
+metric,current,target,trend
+Order Fulfillment Time (hours),24.0,18.0,↓ Improving
+Return Rate (%),3.2,2.5,↓ Improving
+Website Uptime (%),99.8,99.95,→ Stable
+Avg Response Time (sec),1.2,0.8,↓ Improving
+Cost per Order ($),12.5,10.0,↑ Rising
+Net Promoter Score,72.0,80.0,↓ Declining

@@ -1,0 +1,5 @@
+segment,customer_count,avg_ltv,retention_rate,satisfaction
+Premium,2500,8500,92,4.7
+Standard,8500,3200,78,4.1
+Economy,15000,1200,65,3.5
+New,3200,500,45,3.2
